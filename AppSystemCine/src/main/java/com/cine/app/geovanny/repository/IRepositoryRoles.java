@@ -9,4 +9,5 @@ import com.cine.app.geovanny.model.Roles;
 @Repository
 public interface IRepositoryRoles extends JpaRepository<Roles, String>{
 
+	// Repositorio
 }

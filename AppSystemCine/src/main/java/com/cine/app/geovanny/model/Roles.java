@@ -66,7 +66,7 @@ public class Roles implements Serializable{
 
 	@Override
 	public String toString() {
-		return "Roles [rol_id=" + rol_id + ", rol_name=" + rol_name + ", rol_description=" + rol_description
+		return "Roles : [rol_id=" + rol_id + ", rol_name=" + rol_name + ", rol_description=" + rol_description
 				+ ", rol_status=" + rol_status + "]";
 	}	
 }

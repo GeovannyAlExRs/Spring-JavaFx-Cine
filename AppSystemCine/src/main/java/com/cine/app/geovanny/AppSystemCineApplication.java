@@ -19,7 +19,6 @@ public class AppSystemCineApplication extends Application {
 	public static Stage stage;
 	
 	public static void main(String[] args) {
-		//SpringApplication.run(AppSystemCineApplication.class, args);
 		launch(args);
 	}
 

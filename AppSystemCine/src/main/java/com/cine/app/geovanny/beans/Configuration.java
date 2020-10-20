@@ -8,6 +8,6 @@ public class Configuration {
 
 	@Bean("lblTitulo")
 	private String getTitulo() {
-		return "Bienvenido a Spring - Javafx";
+		return "Bienvenido Spring - Javafx";
 	}
 }
